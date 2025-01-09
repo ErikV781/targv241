@@ -13,5 +13,8 @@ Arvestuse saamiseks on vaja teha
   ```
   <a href="#readme-top">Ülesse</a>
   
-Vaa ka minu kospekti WP-portfoolios:
-<a href="https://erikvolkov24.thkit.ee/?page_id=197&preview=true" target="_blank
+Vaa ka minu konspekti WP-portfoolios:
+<a href="https://erikvolkov24.thkit.ee/?page_id=197&preview=true" target="_blank">WP link</a>
+![image](https://github.com/user-attachments/assets/b9b4158d-9126-4b20-a19e-86dd1e0a3e58)
+
+
